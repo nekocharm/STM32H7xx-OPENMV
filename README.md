@@ -1,4 +1,4 @@
-# STM32H7xx-OPENMV
+# STM32H7xx-OpenMV
 
 ## 下载openmv
 
@@ -20,9 +20,9 @@ git submodule update --depth=1
 在openmv仓库目录下
 
 ```shell
-git clone git@github.com:nekocharm/STM32H7xx-OPENMV.git
+git clone git@github.com:nekocharm/STM32H7xx-OpenMV.git
 
-cd STM32H7xx-OPENMV
+cd STM32H7xx-OpenMV
 ./prepare.sh
 ```
 
